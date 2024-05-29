@@ -8,7 +8,7 @@ maiornumero=0
 menornumero=9999
 for i in range(5):
     
-    nota=float(input(f"Digite a sua nota: "))
+    nota=float(input(f"Digite fa sua nota: "))
     notas.append(nota)
 
     maiornumero=max(notas)
